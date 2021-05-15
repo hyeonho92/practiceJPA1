@@ -1,0 +1,44 @@
+com/jpaExample/jpaExample1/domain/Item/Item.java
+ com.jpaExample.jpaExample1.domain.Item.Item
+com/jpaExample/jpaExample1/service/MemberService.java
+ com.jpaExample.jpaExample1.service.MemberService
+com/jpaExample/jpaExample1/domain/Item/Movie.java
+ com.jpaExample.jpaExample1.domain.Item.Movie
+com/jpaExample/jpaExample1/domain/order/OrderItem.java
+ com.jpaExample.jpaExample1.domain.order.OrderItem
+com/jpaExample/jpaExample1/repository/MemberRepository.java
+ com.jpaExample.jpaExample1.repository.MemberRepository
+com/jpaExample/jpaExample1/domain/member/Member.java
+ com.jpaExample.jpaExample1.domain.member.Member
+com/jpaExample/jpaExample1/JpaExample1Application.java
+ com.jpaExample.jpaExample1.JpaExample1Application
+com/jpaExample/jpaExample1/HelloController.java
+ com.jpaExample.jpaExample1.HelloController
+com/jpaExample/jpaExample1/service/OrderService.java
+ com.jpaExample.jpaExample1.service.OrderService
+com/jpaExample/jpaExample1/domain/code/OrderStatus.java
+ com.jpaExample.jpaExample1.domain.code.OrderStatus
+com/jpaExample/jpaExample1/domain/order/Delivery.java
+ com.jpaExample.jpaExample1.domain.order.Delivery
+com/jpaExample/jpaExample1/domain/Item/Book.java
+ com.jpaExample.jpaExample1.domain.Item.Book
+com/jpaExample/jpaExample1/domain/category/Category.java
+ com.jpaExample.jpaExample1.domain.category.Category
+com/jpaExample/jpaExample1/domain/order/Order.java
+ com.jpaExample.jpaExample1.domain.order.Order
+com/jpaExample/jpaExample1/domain/code/DeliveryStatus.java
+ com.jpaExample.jpaExample1.domain.code.DeliveryStatus
+com/jpaExample/jpaExample1/domain/common/Address.java
+ com.jpaExample.jpaExample1.domain.common.Address
+com/jpaExample/jpaExample1/service/ItemService.java
+ com.jpaExample.jpaExample1.service.ItemService
+com/jpaExample/jpaExample1/repository/ItemRepository.java
+ com.jpaExample.jpaExample1.repository.ItemRepository
+com/jpaExample/jpaExample1/repository/OrderRepository.java
+ com.jpaExample.jpaExample1.repository.OrderRepository
+com/jpaExample/jpaExample1/domain/Item/Album.java
+ com.jpaExample.jpaExample1.domain.Item.Album
+com/jpaExample/jpaExample1/exception/NotEnoughStockException.java
+ com.jpaExample.jpaExample1.exception.NotEnoughStockException
+com/jpaExample/jpaExample1/Hello.java
+ com.jpaExample.jpaExample1.Hello
