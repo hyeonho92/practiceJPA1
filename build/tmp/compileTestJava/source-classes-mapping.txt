@@ -2,3 +2,5 @@ com/jpaExample/jpaExample1/JpaExample1ApplicationTests.java
  com.jpaExample.jpaExample1.JpaExample1ApplicationTests
 com/jpaExample/jpaExample1/service/MemberServiceTest.java
  com.jpaExample.jpaExample1.service.MemberServiceTest
+com/jpaExample/jpaExample1/service/OrderServiceTest.java
+ com.jpaExample.jpaExample1.service.OrderServiceTest
